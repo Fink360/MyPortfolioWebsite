@@ -7,9 +7,28 @@ body
     font-family: sans-serif;
 }
 
+.container
+{
+    width: 100%;
+    margin: 0 auto;
+    background: #1f4b1f;
+}
+
 nav
 {
-    background: #696969;
     height: 80px;
     width: 100px;
+}
+
+nav.ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li
+{
+    display: inline-block;
+    margin: center;
 }
