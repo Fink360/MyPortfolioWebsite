@@ -1,0 +1,15 @@
+/*
+CSS Page
+*/
+
+body
+{
+    font-family: sans-serif;
+}
+
+nav
+{
+    background: #696969;
+    height: 80px;
+    width: 100px;
+}
